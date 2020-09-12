@@ -31,6 +31,7 @@ if (entrada == 1){
       printf("Entrada Invalida\n");
   }
   }
-
+  
+  printf("Bom dia!\n");
 
 }
